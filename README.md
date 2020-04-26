@@ -1,5 +1,5 @@
 
-# SuperDemo: Supercharge Your SAS/ACCESS® Queries One Option at a Time
+# SuperDemo: Supercharge Your SAS/ACCESS® Queries One Option at a Time (Snowflake and ODBC)
 SAS Global Forum 2018
 
 ## Abstact
